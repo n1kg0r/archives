@@ -1,0 +1,470 @@
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,459 - root - INFO - Unable to parse file smartpromos-09072645.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,481 - root - INFO - Unable to parse file logo-radio_com-a9802731.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,494 - root - INFO - Unable to parse file logo-apple-podcasts-8581ea03.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,503 - root - INFO - Unable to parse file rss-1dfb110e.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,514 - root - INFO - Unable to parse file pandora-055b34b5.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,531 - root - INFO - Unable to parse file spotify-4e0e9c4e.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,549 - root - INFO - Unable to parse file logo-breaker-95f0478c.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,563 - root - INFO - Unable to parse file chartable-logo-fcbf8120.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,581 - root - INFO - Unable to parse file chart.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,594 - root - INFO - Unable to parse file checked-06e34aa0.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,605 - root - INFO - Unable to parse file megaphone-28c7b3b0.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,627 - root - INFO - Unable to parse file logo-uforia-852f2b8c.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,658 - root - INFO - Unable to parse file logo-pocket-casts-b2074961.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,680 - root - INFO - Unable to parse file youtube-062a2857.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,687 - root - INFO - Unable to parse file encore-exclaim-1a0b0f5f.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,699 - root - INFO - Unable to parse file i_heart_radio-0aee2d79.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,707 - root - INFO - Unable to parse file unchecked-caded494.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,720 - root - INFO - Unable to parse file google_podcasts_logo-c61f5158.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,735 - root - INFO - Unable to parse file logo-amazon-music-43a5067a.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,747 - root - INFO - Unable to parse file audacy-7db0085e.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,763 - root - INFO - Unable to parse file art19-6d98d101.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,773 - root - INFO - Unable to parse file hourglass-75b2849a.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,782 - root - INFO - Unable to parse file mpbundleheader-910da60a.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,792 - root - INFO - Unable to parse file refresh-7b136cca.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,812 - root - INFO - Unable to parse file acast-a64ba64b.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,818 - root - INFO - Unable to parse file triton-339e714d.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,831 - root - INFO - Unable to parse file knit-e6a26978.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,846 - root - INFO - Unable to parse file locked-80ac0381.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,853 - root - INFO - Unable to parse file adswizz-696f2106.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': stream is smaller than 64.0 bytes
+[warn] Skip parser 'ElfFile': stream is smaller than 52.0 bytes
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': stream is smaller than 84.0 bytes
+[warn] Skip parser 'PRCFile': False
+2023-12-19 03:10:02,865 - root - INFO - Unable to parse file logo-podcast-addict-8bfde9fe.png
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
